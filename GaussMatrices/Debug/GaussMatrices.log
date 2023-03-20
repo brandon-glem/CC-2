@@ -1,0 +1,3 @@
+﻿  GaussMatrices.cpp
+D:\Proyectos\CC-2\GaussMatrices\GaussMatrices.cpp(35,32): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+  GaussMatrices.vcxproj -> D:\Proyectos\CC-2\GaussMatrices\Debug\GaussMatrices.exe

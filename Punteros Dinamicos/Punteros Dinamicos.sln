@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Punteros Dinamicos", "Punteros Dinamicos.vcxproj", "{595BD976-D2F7-4F1B-AE9C-F6117B0476DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{595BD976-D2F7-4F1B-AE9C-F6117B0476DE}.Debug|x64.ActiveCfg = Debug|x64
+		{595BD976-D2F7-4F1B-AE9C-F6117B0476DE}.Debug|x64.Build.0 = Debug|x64
+		{595BD976-D2F7-4F1B-AE9C-F6117B0476DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{595BD976-D2F7-4F1B-AE9C-F6117B0476DE}.Debug|x86.Build.0 = Debug|Win32
+		{595BD976-D2F7-4F1B-AE9C-F6117B0476DE}.Release|x64.ActiveCfg = Release|x64
+		{595BD976-D2F7-4F1B-AE9C-F6117B0476DE}.Release|x64.Build.0 = Release|x64
+		{595BD976-D2F7-4F1B-AE9C-F6117B0476DE}.Release|x86.ActiveCfg = Release|Win32
+		{595BD976-D2F7-4F1B-AE9C-F6117B0476DE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5069008-8146-4F00-986D-C348F917859C}
+	EndGlobalSection
+EndGlobal
